@@ -1,0 +1,2 @@
+# QuickSort
+This is code to perform quicksort showing how it is done, and providing 3 ways of doing it using the C language I would like to thank Bro Code channel for the great explanation of quicksort which can be found here https://www.youtube.com/watch?v=Vtckgz38QHs
